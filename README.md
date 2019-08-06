@@ -496,7 +496,7 @@ SpeechError 类有2个值：
 
 *   DEMO 中已经集成了 SDK。您可以参考DEMO，集成SDK。
 *   集成前，请先测通DEMO，了解调用原理。
-*   如果您自己代码过于复杂，可以使用一个helloworld项目了解集成过程。 本文以Android Studio 2.3.3作为示例
+*   如果您自己代码过于复杂，可以使用一个helloworld项目了解集成过程。 本文以Android Studio 3.4.2作为示例
 
 ## AndroidManifest.xml 文件
 
@@ -653,4 +653,4 @@ mSpeechSynthesizer.setApiKey(appKey, secretKey);
 | -600 | 播放器为空 |
 | -9999 | 未知错误 |
 
-## 错误反馈
+> 原文转至[https://ai.baidu.com/docs#/TTS-Android-SDK/67b48648](https://ai.baidu.com/docs#/TTS-Android-SDK/67b48648)
